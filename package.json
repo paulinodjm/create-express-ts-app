@@ -9,5 +9,7 @@
   "bin": {
     "create-express-ts-app": "./index.js"
   },
-  "dependencies": {}
+  "dependencies": {
+    "recursive-copy": "^2.0.8"
+  }
 }
