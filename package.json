@@ -9,8 +9,5 @@
   "bin": {
     "create-express-ts-app": "./index.js"
   },
-  "dependencies": {
-    "commander": "^2.13.0",
-    "yargs": "^10.1.1"
-  }
+  "dependencies": {}
 }
