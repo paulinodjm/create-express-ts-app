@@ -1,0 +1,12 @@
+{
+  "name": "create-express-ts-app",
+  "version": "1.0.0",
+  "description": "Creates an express application in typescript",
+  "main": "./index.js",
+  "author": "Paulino Marié <paulinodjm@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "bin": {
+    "create-express-ts-app": "./index.js"
+  }
+}
