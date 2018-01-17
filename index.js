@@ -21,4 +21,7 @@ if (fs.existsSync(appDir)) {
   process.exit(ERROR_APP_EXISTS)
 }
 
+// Creates the target directory
+fs.mkdirSync(appDir)
+
 console.log(appDir)
